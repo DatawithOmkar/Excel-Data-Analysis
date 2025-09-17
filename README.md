@@ -1,4 +1,4 @@
-# Visualization-using-Excel
+# Excel Data Analysis
 Aim is to identify top 5 categories from a content website data.
 
 #### Data understanding 
